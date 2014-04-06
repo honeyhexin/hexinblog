@@ -1,0 +1,101 @@
+date: 2014-04-06 18:54:09.065
+argv: node /usr/local/bin/hexo server
+os: Linux 3.8.0-29-generic linux x64
+version:
+  hexo: 2.5.2
+  http_parser: 1.0
+  node: 0.11.2
+  v8: 3.19.0
+  ares: 1.9.0-DEV
+  uv: 0.11.2
+  zlib: 1.2.3
+  modules: 0x000C
+  openssl: 1.0.1e
+---
+
+[debug] 18:54:08.722 Config file loaded
+[debug] 18:54:08.724 Version info checked successfully
+[debug] 18:54:08.750 Loading database.
+[debug] 18:54:08.776 Script load successfully: fancybox.js
+[debug] 18:54:08.812 Processed: Gruntfile.js
+[debug] 18:54:08.812 Processed: LICENSE
+[debug] 18:54:08.813 Processed: README.md
+[debug] 18:54:08.813 Processed: package.json
+[debug] 18:54:08.813 Processed: scripts/fancybox.js
+[debug] 18:54:08.830 Processed: source/css/_extend.styl
+[debug] 18:54:08.830 Processed: source/css/_variables.styl
+[debug] 18:54:08.831 Processed: source/css/_partial/archive.styl
+[debug] 18:54:08.831 Processed: source/css/_partial/article.styl
+[debug] 18:54:08.831 Processed: source/css/_partial/comment.styl
+[debug] 18:54:08.831 Processed: source/css/_partial/footer.styl
+[debug] 18:54:08.831 Processed: source/css/_partial/header.styl
+[debug] 18:54:08.831 Processed: source/css/_partial/highlight.styl
+[debug] 18:54:08.831 Processed: source/css/_partial/mobile.styl
+[debug] 18:54:08.831 Processed: source/css/_partial/sidebar-aside.styl
+[debug] 18:54:08.831 Processed: source/css/_partial/sidebar-bottom.styl
+[debug] 18:54:08.831 Processed: source/css/_partial/sidebar.styl
+[debug] 18:54:08.831 Processed: source/css/_util/grid.styl
+[debug] 18:54:08.831 Processed: source/css/_util/mixin.styl
+[debug] 18:54:08.844 Processed: source/js/script.js
+[debug] 18:54:08.845 Processed: source/css/style.styl
+[debug] 18:54:08.845 Processed: source/css/fonts/FontAwesome.otf
+[debug] 18:54:08.846 Processed: source/css/fonts/fontawesome-webfont.eot
+[debug] 18:54:08.847 Processed: source/css/fonts/fontawesome-webfont.svg
+[debug] 18:54:08.848 Processed: source/css/fonts/fontawesome-webfont.ttf
+[debug] 18:54:08.848 Processed: source/css/fonts/fontawesome-webfont.woff
+[debug] 18:54:08.849 Processed: source/css/images/banner.jpg
+[debug] 18:54:08.849 Processed: source/fancybox/blank.gif
+[debug] 18:54:08.850 Processed: source/fancybox/fancybox_loading.gif
+[debug] 18:54:08.851 Processed: source/fancybox/fancybox_loading@2x.gif
+[debug] 18:54:08.851 Processed: source/fancybox/fancybox_overlay.png
+[debug] 18:54:08.852 Processed: source/fancybox/fancybox_sprite.png
+[debug] 18:54:08.852 Processed: source/fancybox/fancybox_sprite@2x.png
+[debug] 18:54:08.853 Processed: source/fancybox/jquery.fancybox.css
+[debug] 18:54:08.854 Processed: source/fancybox/jquery.fancybox.js
+[debug] 18:54:08.855 Processed: source/fancybox/jquery.fancybox.pack.js
+[debug] 18:54:08.855 Processed: source/fancybox/helpers/fancybox_buttons.png
+[debug] 18:54:08.856 Processed: source/fancybox/helpers/jquery.fancybox-buttons.css
+[debug] 18:54:08.857 Processed: source/fancybox/helpers/jquery.fancybox-buttons.js
+[debug] 18:54:08.857 Processed: source/fancybox/helpers/jquery.fancybox-media.js
+[debug] 18:54:08.859 Processed: source/fancybox/helpers/jquery.fancybox-thumbs.css
+[debug] 18:54:08.859 Processed: source/fancybox/helpers/jquery.fancybox-thumbs.js
+[debug] 18:54:09.011 Processed: layout/archive.ejs
+[debug] 18:54:09.011 Processed: layout/category.ejs
+[debug] 18:54:09.011 Processed: layout/index.ejs
+[debug] 18:54:09.012 Processed: layout/layout.ejs
+[debug] 18:54:09.012 Processed: layout/page.ejs
+[debug] 18:54:09.012 Processed: layout/post.ejs
+[debug] 18:54:09.012 Processed: layout/tag.ejs
+[debug] 18:54:09.012 Processed: layout/_widget/archive.ejs
+[debug] 18:54:09.012 Processed: layout/_widget/category.ejs
+[debug] 18:54:09.012 Processed: layout/_widget/recent_posts.ejs
+[debug] 18:54:09.012 Processed: layout/_widget/tag.ejs
+[debug] 18:54:09.012 Processed: layout/_widget/tagcloud.ejs
+[debug] 18:54:09.012 Processed: layout/_partial/after-footer.ejs
+[debug] 18:54:09.012 Processed: layout/_partial/archive-post.ejs
+[debug] 18:54:09.012 Processed: layout/_partial/archive.ejs
+[debug] 18:54:09.012 Processed: layout/_partial/article.ejs
+[debug] 18:54:09.012 Processed: layout/_partial/footer.ejs
+[debug] 18:54:09.012 Processed: layout/_partial/google-analytics.ejs
+[debug] 18:54:09.012 Processed: layout/_partial/head.ejs
+[debug] 18:54:09.012 Processed: layout/_partial/header.ejs
+[debug] 18:54:09.012 Processed: layout/_partial/mobile-nav.ejs
+[debug] 18:54:09.012 Processed: layout/_partial/sidebar.ejs
+[debug] 18:54:09.012 Processed: layout/_partial/post/category.ejs
+[debug] 18:54:09.013 Processed: layout/_partial/post/date.ejs
+[debug] 18:54:09.013 Processed: layout/_partial/post/gallery.ejs
+[debug] 18:54:09.013 Processed: layout/_partial/post/nav.ejs
+[debug] 18:54:09.013 Processed: layout/_partial/post/tag.ejs
+[debug] 18:54:09.013 Processed: layout/_partial/post/title.ejs
+[debug] 18:54:09.029 Theme config loaded
+[debug] 18:54:09.029 Processed: _config.yml
+[debug] 18:54:09.035 Processed: _posts/abc.md
+[debug] 18:54:09.037 Processed: _posts/hello-world.md
+[error] 18:54:09.059 Error: listen EADDRINUSE
+Error: listen EADDRINUSE
+    at errnoException (net.js:945:11)
+    at Server._listen2 (net.js:1083:14)
+    at listen (net.js:1105:10)
+    at net.js:1179:9
+    at dns.js:72:18
+    at process._tickDomainCallback (node.js:459:13)
